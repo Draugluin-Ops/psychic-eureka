@@ -1,0 +1,49 @@
+html, body, h1, h2{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 100;
+}
+.background {
+    position: relative;
+    background-image: url(./Norway-Fjords-Hardangerfjord-Trolltunga-the-Best-Fjords-to-Visit-in-Norway-Scandinavia-Standard-1.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+.text1 {
+    top: 30px;
+    left: 0;
+    color: orangered;
+    text-align: center;
+    width: 100%;
+    font-size: 100px;
+
+}
+.text2 {
+    bottom:30px;
+    left: 0;
+    color: orangered;
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+}
+.background1 {
+    background-color: black;
+    color: orangered;
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    padding: 10px;
+}
+ul li {
+    list-style-type: none;
+    display:inline;
+    float: center;
+    font-size: 20px;
+    margin: 0 5px;
+}
